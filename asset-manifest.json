@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gestion-usuarios-react/static/css/main.e7720ab7.css",
+    "main.js": "/gestion-usuarios-react/static/js/main.f4818082.js",
+    "index.html": "/gestion-usuarios-react/index.html",
+    "main.e7720ab7.css.map": "/gestion-usuarios-react/static/css/main.e7720ab7.css.map",
+    "main.f4818082.js.map": "/gestion-usuarios-react/static/js/main.f4818082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.f4818082.js"
+  ]
+}
